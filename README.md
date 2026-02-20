@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=250&section=header&text=Nguyen%20Tuan%20Anh&fontSize=45&fontColor=00F5FF&animation=fadeIn" />
+```<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=250&section=header&text=Nguyen%20Tuan%20Anh&fontSize=45&fontColor=00F5FF&animation=fadeIn" />
 
 <div align="center">
 
-# ⚡ NGUYỄN TUẤN ANH
-### 🧠 Automation Engineer • Unity Developer • System Builder
+# ⚡ NGUYỄN TUẤN ANH  
+### 🧠 Automation Engineer • Unity Developer • System Builder  
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=24&center=true&vCenter=true&width=800&lines=Building+Automation+Systems;Cyberpunk+Code+Architect;Unity+Game+Developer;Shipping+Real+Products" />
 
@@ -32,6 +32,7 @@
 Automation platform built for real users
 
 🌐 https://autofarmcoc.shop/
+
 Core: Python Automation
 Deployment: Web Platform
 Architecture: Tool + Distribution
@@ -39,4 +40,4 @@ Users: Active
 🧿 DEV PHILOSOPHY
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=NemRannn&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge" /> </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=150&section=footer"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=150&section=footer" /> ```
