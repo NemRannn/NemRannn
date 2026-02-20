@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=220&section=header&text=Nguyen%20Tuan%20Anh&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=230&section=header&text=Nguyen%20Tuan%20Anh&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 <div align="center">
 
-# Nguyễn Tuấn Anh  
-### 🚀 Automation Engineer | Game Developer | Full-Stack Developer
+# 🚀 Nguyễn Tuấn Anh  
+### Automation Engineer • Unity Developer • Full-Stack Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&size=26&center=true&vCenter=true&width=800&lines=Building+Automation+Tools;Unity+Game+Developer;Python+Tool+Developer;Full-Stack+Web+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FF61F6&size=26&center=true&vCenter=true&width=800&lines=Building+Automation+Systems;Unity+Game+Developer;Python+Tool+Creator;Shipping+Real+Products" />
 
 </div>
 
@@ -13,53 +13,50 @@
 
 # 🧠 About Me
 
-- 🎮 Unity Game Developer (C#)
-- 🐍 Python Tool & Automation Developer
-- 🌐 Full-Stack Web Builder
-- ⚡ Love building real products, not just practice projects
-- 🚀 Founder of **AutoFarm COC**
+- 🎮 Unity Developer (C#)
+- 🐍 Python Automation Engineer
+- 🌐 Web Developer
+- 🚀 Creator of **AutoFarm COC**
+- ⚡ Love building scalable tools & systems
 
 ---
 
-# 🔥 Featured Product
+# 🌍 Featured Product
 
-## 🌍 AutoFarm COC
-> Automation platform for Clash of Clans players
+## 🔥 AutoFarm COC
+Automation platform for Clash of Clans players  
 
-🔗 Website: https://autofarmcoc.shop/
+🔗 https://autofarmcoc.shop/
 
-- Python-based automation core
-- Tool distribution system
-- Web landing + product integration
-- Real-user deployment
+<img src="https://img.shields.io/badge/Live-Website-7F3FBF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 
 ---
 
 # 🛠 Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cs,python,java,js,html,css" />
 </p>
 
-## 🎮 Game Development
+### 🎮 Game Development
 <p align="center">
 <img src="https://skillicons.dev/icons?i=unity" />
 </p>
 
-## 🌐 Web Development
+### 🌐 Web & Backend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,react" />
 </p>
 
-## ⚙ Tools & DevOps
+### ⚙ Dev Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -71,11 +68,33 @@
 
 ---
 
-# 🔥 Contribution Streak
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=NemRannn&theme=radical&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NemRannn&theme=react-dark&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/NemRannn/NemRannn/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+> ⚠ Để snake chạy được, tao hướng dẫn setup bên dưới
+
+---
+
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NemRannn&theme=radical&no-frame=true&margin-w=10" />
 
 </div>
 
@@ -87,22 +106,12 @@
 - Flappy-Bird-New (Unity 2D)
 - ZombieGame (Unity 3D)
 
-### 🐍 Automation Tools
-- Python-based AutoFarm system
-- Tool-IG automation
+### 🐍 Automation
+- AutoFarm Python Tool
+- Tool-IG Automation
 
-### 🌐 Web Projects
+### 🌐 Web
 - autofarmcoc.shop
-- Landing + product deployment
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-<a href="https://facebook.com/Nem.Rannn"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://autofarmcoc.shop/"><img src="https://img.shields.io/badge/Website-7F3FBF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</p>
 
 ---
 
@@ -111,3 +120,5 @@
 ### 💡 Build • Automate • Scale • Ship 🚀
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=footer"/>
