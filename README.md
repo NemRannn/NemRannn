@@ -3,3 +3,7 @@
 <br><br>
 
 <a href="https://autofarmcoc.shop/"> <img src="https://img.shields.io/badge/AUTOFARM-LIVE-6e6e6e?style=for-the-badge" /> </a> <img src="https://img.shields.io/badge/STATUS-ONLINE-ff00ff?style=for-the-badge" /> <img src="https://komarev.com/ghpvc/?username=NemRannn&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge" /> </div>
+<br> <div align="center"> <img src="https://skillicons.dev/icons?i=cs,python,unity,html,css,js,dotnet,vscode,visualstudio,git,github&theme=dark" height="85"/> </div>
+<br> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NemRannn&bg_color=0d1117&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true" /> </div>
+<br> <div align="center"> <img src="https://raw.githubusercontent.com/NemRannn/NemRannn/output/github-contribution-grid-snake-dark.svg" /> </div>
+<br> <div align="center"> <h2>⚡ BUILD • AUTOMATE • SHIP ⚡</h2> </div> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f3460,100:000000&section=footer" />
