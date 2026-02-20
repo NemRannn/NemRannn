@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:000000,50:1a1a2e,100:0f3460&text=NGUYEN%20TUAN%20ANH&fontSize=65&fontColor=00FFFF&animation=twinkling&fontAlignY=40" /> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=AUTOMATION+ENGINEER;UNITY+DEVELOPER;FULL-STACK+BUILDER;SYSTEM+ARCHITECT" /> </div>
-💀 MATRIX MODE
-<div align="center"> <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" /> </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:000000,50:1a1a2e,100:0f3460&text=NGUYỄN%20TUẤN%20ANH&fontSize=65&fontColor=00FFFF&animation=twinkling&fontAlignY=40" /> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=AUTOMATION+ENGINEER;UNITY+DEVELOPER;FULL-STACK+BUILDER;SYSTEM+ARCHITECT" /> </div>
 🧬 3D PROFILE CARD
 <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NemRannn&theme=tokyonight" /> </div>
 🎮 GAME DEV POWER
