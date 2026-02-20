@@ -7,13 +7,13 @@
 
 </div>
 <br> <div align="center">
-💎 CORE STACK
+
 <img src="https://skillicons.dev/icons?i=cs,python,unity,html,css,js&theme=dark" height="75"/> </div>
 <br> <div align="center">
-🖥 BACKEND
+
 <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="75"/> </div>
 <br> <div align="center">
-🛠 DEVELOPMENT TOOLS
+
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github&theme=dark" height="75"/> </div>
 <br> <div align="center">
 📈 SYSTEM ACTIVITY
