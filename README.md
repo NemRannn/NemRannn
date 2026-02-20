@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:1a1a2e,100:0f3460&text=NGUYỄN%20TUẤN%20ANH&fontSize=58&fontColor=00FFFF&fontAlignY=40" /> <div align="center"> <h1 style="font-size:42px; font-weight:900;">⚡ NGUYỄN TUẤN ANH</h1> <h2 style="font-size:26px; font-weight:800;">Automation Engineer • Unity Developer • Full-Stack Builder</h2> <a href="https://autofarmcoc.shop/"> <img src="https://img.shields.io/badge/AUTOFARM%20COC-LIVE-ff00ff?style=for-the-badge&logo=google-chrome&logoColor=black" /> </a> <img src="https://img.shields.io/badge/AUTOMATION-SYSTEM-00ffff?style=for-the-badge" /> <img src="https://img.shields.io/badge/SHIP-REAL%20PRODUCTS-ffffff?style=for-the-badge" /> </div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=NemRannn&label=PROFILE%20VIEWS&color=00ffff&style=for-the-badge" /> </div>
-💀 CYBERPUNK MATRIX (BACKGROUND)
-<div align="center"> <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" /> </div>
 🎯 FEATURED
 <div align="center"> <h2 style="font-size:30px; font-weight:900;">🚀 AutoFarm COC</h2> <h3 style="font-size:22px; font-weight:800;">🌐 https://autofarmcoc.shop/</h3> </div>
 🎯 CORE STACK
