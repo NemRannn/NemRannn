@@ -1,4 +1,3 @@
-<img src="https://github-profile-trophy.vercel.app/?username=NemRannn&theme=radical&no-frame=true&margin-w=10" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=200&section=header&text=Nguyen%20Tuan%20Anh&fontSize=40&fontColor=ffffff" />
 <div align="center">
 
